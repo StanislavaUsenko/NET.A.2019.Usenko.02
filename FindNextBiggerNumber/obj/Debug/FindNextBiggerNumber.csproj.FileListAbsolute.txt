@@ -1,0 +1,6 @@
+C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
+C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb
