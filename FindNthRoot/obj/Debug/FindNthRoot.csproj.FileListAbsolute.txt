@@ -1,6 +1,5 @@
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNthRoot\bin\Debug\FindNthRoot.dll
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNthRoot\bin\Debug\FindNthRoot.pdb
-C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNthRoot\obj\Debug\FindNthRoot.csprojAssemblyReference.cache
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNthRoot\obj\Debug\FindNthRoot.csproj.CoreCompileInputs.cache
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNthRoot\obj\Debug\FindNthRoot.dll
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\FindNthRoot\obj\Debug\FindNthRoot.pdb

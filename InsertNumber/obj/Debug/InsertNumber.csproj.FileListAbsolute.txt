@@ -1,6 +1,5 @@
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\InsertNumber\bin\Debug\InsertNumber.dll
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\InsertNumber\bin\Debug\InsertNumber.pdb
-C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\InsertNumber\obj\Debug\InsertNumber.csprojAssemblyReference.cache
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\InsertNumber\obj\Debug\InsertNumber.csproj.CoreCompileInputs.cache
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\InsertNumber\obj\Debug\InsertNumber.dll
 C:\Users\akkar\source\repos\NET.A.2019.Usenko.02\InsertNumber\obj\Debug\InsertNumber.pdb

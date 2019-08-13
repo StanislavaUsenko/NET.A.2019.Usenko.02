@@ -26,7 +26,7 @@ namespace FilterDigit
                 for (int i = 0; i < digits.Value.Length; i++)
                     if (digits.Value[i] == digitInclude)
                     {
-                        temp.Add(Combine(digits.Value));
+                        temp.Add(digits.Value[i]);
                         break;
                     }
 
